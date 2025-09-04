@@ -33,7 +33,7 @@ public class GameBoard {
     }
     
     
-    //allows for moves to be done
+    //allows for moves to be done--> made use of chatGpt to understand this
     public boolean move(int row,int col,char player){
     if(row>=0&& row<3&& col>=0&& col<3&& board[row][col]==' '){
     board[row][col]=player;
@@ -44,7 +44,7 @@ public class GameBoard {
     }
 
     
-    //checks to see who has won
+    //checks to see who has won--> made use of chatGpt to understand this
 public boolean checkTheWinner(char player) {
     for (int i = 0; i < 3; i++) {
         //checks straight lines

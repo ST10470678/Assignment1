@@ -50,5 +50,6 @@ public class Progassignmentprt2 {
 /*
 Refrence list:
 Farrell, J., 2022. Java Programming. 10th ed. Boston, MA: Cengage Learning US.
+OpenAI, 2023. ChatGPT (GPT-5) [AI language model]. Available at: https://openai.com/chatgpt [Accessed 4 September 2025].
 */
 
